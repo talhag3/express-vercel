@@ -1,0 +1,17 @@
+{
+    "name": "express-vercel",
+    "version": "1.2.0",
+    "description": "Express on vercel",
+    "author": "talhag3",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "overrides": {
+        "nwsapi": "^2.2.1"
+    }
+}
